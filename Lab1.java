@@ -6,7 +6,7 @@ public class Lab1 {
     }
 
     //-------------------------------QUESTION 1-------------------------------
-    public int stringLength(String input){
+    public static int stringLength(String input){
         int strLength = input.length();
         return strLength;
     }
